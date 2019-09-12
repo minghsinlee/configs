@@ -8,3 +8,4 @@ default.conf_v2rayNginx配置: v2ray的docker nginx配置，目录映射：
                         /root/service/nginx/nginxv2ray:/usr/share/nginx/html
 
 
+https://raw.githubusercontent.com/minghsinlee/configs/README.md
